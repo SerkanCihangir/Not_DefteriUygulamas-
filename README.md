@@ -1,1 +1,1 @@
-# Not_DefteriUygulamas-
+Not_defteri Uygulaması 
