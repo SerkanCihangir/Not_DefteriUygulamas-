@@ -1,1 +1,1 @@
-Not_defteri Uygulaması 
+Nesne Tabanlı Programlama ile not defteri uygulaması 
